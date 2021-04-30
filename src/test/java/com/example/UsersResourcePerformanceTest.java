@@ -30,6 +30,7 @@ public class UsersResourcePerformanceTest {
     private static HttpServer server;
     private static WebTarget target;
 
+    //Ejecuta lo primero
     @BeforeClass
     public static void setUp() throws Exception {
         // start the server
@@ -45,7 +46,7 @@ public class UsersResourcePerformanceTest {
 
         target = c.target(Main.BASE_URI);
     }
-
+    //LO ejecuta lo ultimo
     @AfterClass
     public static void tearDown() throws Exception {
         server.stop();
