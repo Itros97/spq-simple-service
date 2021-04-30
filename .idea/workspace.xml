@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e30b5d03-071e-405e-a4ca-3cadacfd36b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/java-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/java-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
